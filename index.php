@@ -38,7 +38,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="header-logo-wrapper">
-            <img src="images/Multikreatif Logo Transparent.png" alt="mki" title="Multi Kreatif Indonesia" class="img-responsive center-block" width="50%" />
+            <img src="images/unnamed.png" alt="mki" title="Samudra Catering" class="img-responsive center-block" width="50%" />
           </div>
         </div>
       </div>
